@@ -1,0 +1,26 @@
+<annotation>
+	<folder>K</folder>
+	<filename>K.1375cb04-3f14-4b30-8e97-e881ab3ef35a.jpg</filename>
+	<path>E:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\K\K.1375cb04-3f14-4b30-8e97-e881ab3ef35a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>K</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>193</ymin>
+			<xmax>298</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+</annotation>

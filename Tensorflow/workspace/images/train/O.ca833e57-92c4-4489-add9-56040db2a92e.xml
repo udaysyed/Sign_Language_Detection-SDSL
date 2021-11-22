@@ -1,0 +1,26 @@
+<annotation>
+	<folder>O</folder>
+	<filename>O.ca833e57-92c4-4489-add9-56040db2a92e.jpg</filename>
+	<path>E:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\O\O.ca833e57-92c4-4489-add9-56040db2a92e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>O</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>102</ymin>
+			<xmax>349</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>T</folder>
+	<filename>T.f51af3a9-0ff6-4f25-832f-ad485d11a8a5.jpg</filename>
+	<path>E:\RealTimeObjectDetection3\Tensorflow\workspace\images\collectedimages\T\T.f51af3a9-0ff6-4f25-832f-ad485d11a8a5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>T</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>178</ymin>
+			<xmax>428</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

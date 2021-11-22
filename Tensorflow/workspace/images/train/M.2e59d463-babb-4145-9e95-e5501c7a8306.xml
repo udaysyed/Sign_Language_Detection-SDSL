@@ -1,0 +1,26 @@
+<annotation>
+	<folder>M</folder>
+	<filename>M.2e59d463-babb-4145-9e95-e5501c7a8306.jpg</filename>
+	<path>E:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\M\M.2e59d463-babb-4145-9e95-e5501c7a8306.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>70</ymin>
+			<xmax>395</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>

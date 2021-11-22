@@ -1,0 +1,26 @@
+<annotation>
+	<folder>G</folder>
+	<filename>G.21781522-09ad-4f81-9e1b-a31c8e50d264.jpg</filename>
+	<path>E:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\G\G.21781522-09ad-4f81-9e1b-a31c8e50d264.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>G</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>237</ymin>
+			<xmax>372</xmax>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+</annotation>

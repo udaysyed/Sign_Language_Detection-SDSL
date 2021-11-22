@@ -1,0 +1,26 @@
+<annotation>
+	<folder>N</folder>
+	<filename>N.ebe24e9f-6cfa-4f6c-8ac6-fd9bc6e2a5e4.jpg</filename>
+	<path>E:\RealTimeObjectDetection3\Tensorflow\workspace\images\collectedimages\N\N.ebe24e9f-6cfa-4f6c-8ac6-fd9bc6e2a5e4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>N</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>293</ymin>
+			<xmax>285</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>

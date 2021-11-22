@@ -1,0 +1,26 @@
+<annotation>
+	<folder>H</folder>
+	<filename>H.05dde757-03e4-415b-ab77-7e0f280ff162.jpg</filename>
+	<path>E:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\H\H.05dde757-03e4-415b-ab77-7e0f280ff162.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>H</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>85</ymin>
+			<xmax>455</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>

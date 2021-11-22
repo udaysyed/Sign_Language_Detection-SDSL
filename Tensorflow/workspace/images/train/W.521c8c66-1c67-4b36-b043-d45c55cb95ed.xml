@@ -1,0 +1,26 @@
+<annotation>
+	<folder>W</folder>
+	<filename>W.521c8c66-1c67-4b36-b043-d45c55cb95ed.jpg</filename>
+	<path>E:\RealTimeObjectDetection3\Tensorflow\workspace\images\collectedimages\W\W.521c8c66-1c67-4b36-b043-d45c55cb95ed.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>W</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>207</ymin>
+			<xmax>489</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

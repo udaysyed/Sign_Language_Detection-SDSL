@@ -1,0 +1,26 @@
+<annotation>
+	<folder>V</folder>
+	<filename>V.bc130028-babe-41c5-a02d-fc0fa786eafa.jpg</filename>
+	<path>E:\RealTimeObjectDetection3\Tensorflow\workspace\images\collectedimages\V\V.bc130028-babe-41c5-a02d-fc0fa786eafa.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>V</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>212</ymin>
+			<xmax>409</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>

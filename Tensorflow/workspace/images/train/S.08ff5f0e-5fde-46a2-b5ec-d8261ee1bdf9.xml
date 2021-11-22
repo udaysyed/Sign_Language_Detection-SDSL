@@ -1,0 +1,26 @@
+<annotation>
+	<folder>S</folder>
+	<filename>S.08ff5f0e-5fde-46a2-b5ec-d8261ee1bdf9.jpg</filename>
+	<path>E:\RealTimeObjectDetection3\Tensorflow\workspace\images\collectedimages\S\S.08ff5f0e-5fde-46a2-b5ec-d8261ee1bdf9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>178</ymin>
+			<xmax>418</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>
